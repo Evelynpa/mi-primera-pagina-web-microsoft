@@ -1,0 +1,12 @@
+body{
+	background-image: url(fondo.gif);
+	text-align: center;
+}
+p{
+	font-size: 25px;
+	
+	color: #ff0000
+}
+h1{
+	color: #003d99
+}
